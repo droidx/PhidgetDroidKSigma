@@ -1,0 +1,9 @@
+
+This is the second version of the PhidgetDroid Android Project.
+
+It adds the functionality of detecting picks using the Ksigma algorithm to the previous PhidgetDroid app.
+
+So what the app does overall is :
+1.Interfaces the phidget to the android tablet (In this case, it is the Motorola Xoom running 4.0.3)
+2.Detects the picks
+3.Plots the acceleration curves for representation
